@@ -45,7 +45,6 @@ func main() {
 	// DISPLAY HELP IF CALLED
 	if *help {
 		displayHelp()
-		return
 	}
 
 	// EXIT WITH SUCCESS
